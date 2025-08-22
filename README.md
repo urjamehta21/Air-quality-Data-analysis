@@ -25,5 +25,3 @@ Correlation analysis revealed strong relationships between specific pollutants.
 
 ## Outcome
 This project provided clear insights into air quality variations, helping understand pollution patterns and their potential causes. The visualizations make it easier to interpret the data and can support decision-making in environmental studies.
-
-This project provided clear insights into air quality variations, helping understand pollution patterns and their potential causes. The visualizations make it easier to interpret the data and can support decision-making in environmental studies.
