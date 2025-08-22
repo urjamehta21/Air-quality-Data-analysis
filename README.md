@@ -1,6 +1,6 @@
 # Air-quality-Data-analysis
 
-##Project Overview
+## Project Overview
 
 This project focuses on analyzing Air Quality Data to study pollution trends, regional variations, and correlations between different pollutants. Using Python, I performed data cleaning, preprocessing, and exploratory data analysis (EDA) to extract meaningful insights.
 
